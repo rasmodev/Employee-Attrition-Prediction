@@ -10,6 +10,16 @@ The goal of this project is to analyze employee retention data to uncover insigh
 | -------------                  | -------------    | -------------    |    -----------------    
 |[Notebook with analysis and model development](https://github.com/rasmodev/Employee-Attrition-Prediction/blob/main/notebooks/Employee_Attrition.ipynb)|  [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzFjZTk5NTctMWNkMS00ZTIzLWI4ZGYtYjEzZGU1MjAyOGFiIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |  [Published Article on Medium]() |[Link to Deployed Streamlit App](https://rasmodev-employee-attrition-prediction-app.hf.space)
 
+## App Interface
+After clicking on the link to the working APP, provide the required details, and click on the **"PREDICT"** button.
+
+### Before Prediction
+
+![App Screenshot](screenshots/before_pred.jpeg)
+
+### After Prediction
+![App Screenshot](screenshots/after_pred.jpeg)
+
 ## Dataset
 
 The dataset contains various attributes related to employee demographics, work-life balance, compensation, and training. Key features include:
@@ -105,12 +115,16 @@ Contributions to this project are welcome. If you have any suggestions or improv
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
+## Author
 
-For any questions or inquiries, please contact:
-- Your Name: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [https://github.com/username](https://github.com/username)
+`Rasmo Wanyama`
+
+`Data Analyst/Data Scientist`
+
+Let's connect on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmo-/) 
 
 ---
 
-Thank you for your interest in the Employee Retention Analysis Project! We hope our findings and recommendations help you improve employee retention and satisfaction within your organization.
+Thank you for your interest in the Employee Retention Analysis Project! I hope our findings and recommendations help you improve employee retention and satisfaction within your organization.

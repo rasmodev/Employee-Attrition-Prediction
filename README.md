@@ -5,8 +5,8 @@
 The goal of this project is to analyze employee retention data to uncover insights that can help improve retention strategies. By identifying key factors that influence employee attrition, we aim to provide actionable recommendations for enhancing employee satisfaction and retention rates.
 
 ## Summary
-|     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed App on Hugging Face|    Deployed FastAPI on Hugging Face      
-| -------------                  | -------------    | -------------    |    -----------------    |    -----------------
+|     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed App on Hugging Face     
+| -------------                  | -------------    | -------------    |    -----------------    
 |[Notebook with analysis and model development](https://github.com/rasmodev/Employee-Attrition-Prediction/blob/main/notebooks/Employee_Attrition.ipynb)|  [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzFjZTk5NTctMWNkMS00ZTIzLWI4ZGYtYjEzZGU1MjAyOGFiIiwidCI6IjQ0ODdiNTJmLWYxMTgtNDgzMC1iNDlkLTNjMjk4Y2I3MTA3NSJ9) |  [Published Article on Medium]() |[Link to Deployed Streamlit App](https://rasmodev-employee-attrition-prediction-app.hf.space)
 
 ## Dataset

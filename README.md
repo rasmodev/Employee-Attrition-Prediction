@@ -1,8 +1,9 @@
 # Employee-Attrition-Prediction Project
-
-## Project Overview
-
 The goal of this project is to analyze employee retention data to uncover insights that can help improve retention strategies. By identifying key factors that influence employee attrition, we aim to provide actionable recommendations for enhancing employee satisfaction and retention rates.
+
+<p align="center">
+  <img src="/screenshots/dashboard.jpg" width="800">
+</p>
 
 ## Summary
 |     Jupyter Notebook                       |     Power BI Dashboard|     Published Article|    Deployed App on Hugging Face     
